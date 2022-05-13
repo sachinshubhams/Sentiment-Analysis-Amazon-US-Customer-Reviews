@@ -34,11 +34,14 @@ Verification: partition the input data set into train/test subsets (no need to d
 should verify your model by comparing your prediction with the actual class (given by the rating). You should
 also compare the DNN accuracy with some other classifier like NB nr SVM.
 
-3 Requirements
+3. Requirements
 
 • language: Python. Other languages possible, but discouraged (e.g. Java, Scala, C+..contact instructor).
+
 • Big Data platform: Hadoop HDFS and Apache Spark.
+
 • Class target variable: bad product Y/N. You must create this variable, which is not directly available in
-the input file. Logic explained in detail by TAs.
+the input file.
+
 • Competing system: none, but you can attempt to run some existing Py library or prototype to compute
 ML models on documents.
