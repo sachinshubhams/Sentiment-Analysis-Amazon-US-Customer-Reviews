@@ -45,3 +45,5 @@ the input file.
 
 • Competing system: none, but you can attempt to run some existing Py library or prototype to compute
 ML models on documents.
+
+Dataset: https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset/code?select=amazon_reviews_us_Mobile_Electronics_v1_00.tsv
